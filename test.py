@@ -1,1 +1,1 @@
-import req
+print("test")
